@@ -1,0 +1,19 @@
+{
+  "name": "hapi-prac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "unit",
+    "start": "node_modules/hapi/lib/server.js"
+  },
+  "author": "Raymond Mashigo",
+  "license": "ISC",
+  "dependencies": {
+    "good": "^7.3.0",
+    "good-console": "^6.4.0",
+    "good-squeeze": "^5.0.2",
+    "hapi": "^17.0.1",
+    "inert": "^5.0.1"
+  }
+}
